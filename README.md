@@ -254,7 +254,7 @@ A curated list of awesome Java frameworks, libraries and software. Inspired by o
 * [Javolution](http://javolution.org/) - Library for real-time and embedded systems.
 * [Reactor](http://projectreactor.io/) - Library for building reactive fast-data applications.
 * [Trove](http://trove.starlight-systems.com/) - Primitive collections.
-
+* [RxJava](https://github.com/ReactiveX/RxJava) - Library for composing asynchronous and event-based programs using observable sequences.
 ## IDE
 
 *Integrated development environments that try to simplify several aspects of development.*
